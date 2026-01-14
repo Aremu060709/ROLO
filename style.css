@@ -1,0 +1,246 @@
+html, body{
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+}
+a{
+    text-decoration: none;
+
+}
+.site-header{
+    background-color: black;
+    z-index: 1000;
+}
+#aurum{
+    color: red;
+    font-size: 27px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.bi-telephone{
+    color: gold;
+    font-size: 10px;
+}
+.bi-envelope{
+    color: gold;
+    font-size: 10px;
+}
+.trust a{
+    color: black;
+}
+.footer a{
+    color: white;
+    font-size: 20px;
+}
+#rolo{
+    color: gold;
+    font-size: 20px;
+}
+#ventures{
+    color: gold;
+}
+#copyright{
+    color: white;
+    font-size: 13px;
+
+}
+#luxe{
+    color: white;
+
+}
+.content{
+    background-image: url(images/file_00000000637471f49b5edc3bcac72e33.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 2rem;
+    min-height: 40vh;
+
+}   
+.explore{
+    background-image: url(images/1768062149789.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 4rem;
+}
+.contact-info{
+
+    text-align: center;
+}.contact-info a{
+    color: black;
+
+}
+.contact-info:hover{
+    transform: scale(1.12);
+    background-color: aliceblue;
+}
+.loc{
+background-color: rgb(3, 3, 32);
+padding: 10px 10px 5px 20px;
+}
+.contact-info a:hover{
+    color: black;
+}
+input{
+width: 100%;
+background-color: rgb(9, 41, 100);
+border-radius: 5px;
+color: white;
+}
+.card {
+    border: 0;
+    border-radius: 12px;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    height: 100%;
+}
+.card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 12px 28px rgba(0,0,0,0.15);
+}
+
+.card-img-top {
+    height: 300px;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+.card:hover .card-img-top {
+    transform: scale(1.05);
+}
+
+.card-body {
+    background: #fff;
+    padding: 1.5rem;
+}
+
+.card-body h5 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.3rem;
+    margin: 0;
+    font-weight: 600;
+}
+li{
+    list-style-type: circle;
+}
+.note{
+    background-color: darkgrey;
+    color: black;
+    border-radius: 10px;
+    box-shadow: 10px 8px 10px black;
+    padding: 10px;
+    width: 90%;
+    margin: 10px auto;
+}
+.card-link {
+    text-decoration: none;
+    color: inherit;
+}
+
+textarea{
+width: 100%;
+background-color: rgb(9, 41, 100);
+border-radius: 5px;
+color: white;
+}
+#description{
+    background-color: rgb(44, 42, 42);
+    color: white;
+    padding: 3px;
+    height: 50px;
+    font-size: 10px;
+}
+.contact-info btn:hover{
+    background-color: orange;
+    
+}
+#email{
+    width: 30px;
+    text-align: center;
+    color: gold;
+    padding: 10px auto;
+}
+#text{
+color: black;
+font-weight: bolder;
+text-align: center;
+
+}
+#category{
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.bi-chevron-right{
+    color: gold;
+    font-size: 13px;
+}  
+.trust{
+    background-image: url(images/1768062160851.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 30px 0px 100px 60px;
+} 
+h1{
+    color: white;
+    font-weight: bolder;
+    font-size: 30px;
+}
+h6{
+    color: white;
+    font-size: 10px;
+
+}
+h5{
+    color: white;
+    font-size: 20px;
+    font-weight: lighter;
+}
+.btn-secondary{
+    background-color: orange;
+    color: black;
+    font-weight: bold;
+    border-color: orange;
+}
+.btn-secondary:hover{
+      background-color: orange;
+    color: black;
+    font-weight: bold;
+    border-color: orange;
+}
+.shop{
+    color: black;
+}
+.shop:active{
+    background-color: orange;
+    color: black;
+}
+.delivery{
+    text-align: center;
+    background-color: white;
+    padding: 0px auto
+}
+body{
+    overflow-x: hidden;
+}
+.bi-check-circle-fill{
+    color: green;
+}
+.bi-whatsapp{
+    color: green;
+}
+.bi-truck-front-fill{
+    color: green;
+}
+.link-light{
+    color: #ffffff;
+    font-weight: 500;
+
+}
+.footer{
+    background-color: rgb(3, 3, 36);
+    padding: 20px 30px 30px 20px;
+}
+
+        
